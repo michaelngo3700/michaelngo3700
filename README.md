@@ -36,9 +36,6 @@ Expert in uncovering hidden patterns and providing analysis-driven decisions to 
 
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif" align="right" style="width: 46%" />
-</div>  
 
 <br/>  
 
