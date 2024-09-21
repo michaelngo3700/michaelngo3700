@@ -11,17 +11,7 @@
 </div>
 
 
-<h1 align="center">
-  Welcome to my GitHub 
-</h1>
 
-<div align="center">
-  <!-- Removed the image -->
-</div>
-
-<h1>
-🔍 About me:
-</h1>
 
 <p>
 Experienced Data Analyst with strength in <strong>Business Acumen, Statistical Analysis and Analytics Solutions</strong>. 
